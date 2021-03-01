@@ -9,5 +9,6 @@ namespace Business.Constants
         public static string SuccessMessage = "İslem basariyla gerceklestirildi.";
         public static string ErrorMessage = "İslem gerceklestirilemedi.";
         public static string MaintenanceTime = "Sistem Bakımda";
+        public static string CarImageLimitExceeded = "Araba Görüntü Sınırı Aşıldı";
     }
 }
