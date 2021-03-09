@@ -1,6 +1,7 @@
-﻿namespace Core.Entities
+﻿namespace Core.Entities.Abstract
 {
     public interface IDto
     {
+
     }
 }

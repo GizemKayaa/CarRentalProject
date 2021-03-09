@@ -19,6 +19,7 @@ CREATE TABLE Brands(
      BrandName nvarchar(25),
 )
 
+
 INSERT INTO Cars(BrandId,ColorId,ModelYear,DailyPrice,Descriptions)
 VALUES
      ('1','1','2019','100','manual'),
